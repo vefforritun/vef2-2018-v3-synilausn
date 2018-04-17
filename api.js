@@ -54,7 +54,7 @@ async function putRoute(req, res) {
     return res.status(400).json(result.validation);
   }
 
-  if (!result.success && result.notFound && result.notFound) {
+  if (!result.success && result.notFound) {
     return res.status(404).json({ error: 'Note not found' });
   }
 
