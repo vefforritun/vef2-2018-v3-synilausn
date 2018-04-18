@@ -1,5 +1,7 @@
 # Verkefni 3
 
+[Yfirferð á sýnilausn](https://youtu.be/uBrL7vzBOCY)
+
 Útfæra skal vefþjónustu sem leyfir að skrifa, lesa, breyta og eyða minnisatriðum.
 
 ## `notes.js`
